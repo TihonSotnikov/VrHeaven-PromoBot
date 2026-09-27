@@ -45,7 +45,7 @@ flowchart LR
 ## Быстрый старт
 
 ```bash
-git clone https://github.com/<user>/VrHeaven-PromoBot.git
+git clone https://github.com/TihonSotnikov/VrHeaven-PromoBot.git
 cd VrHeaven-PromoBot
 uv sync                 # uv сам поставит Python 3.12 и зависимости
 cp .env.example .env    # заполните переменные
