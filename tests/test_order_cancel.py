@@ -8,7 +8,6 @@ from helpers import FakeBot, fake_cb
 
 from db import Database
 from handlers.admin import order_cancel_confirm, order_cancel_pick
-from utils import hash_password
 
 CONFIG = SimpleNamespace(tz=ZoneInfo("Europe/Moscow"))
 ADMIN_CHAT = 1
