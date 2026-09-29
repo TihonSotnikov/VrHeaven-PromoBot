@@ -11,7 +11,10 @@
 </p>
 
 <p align="center">
-  <img src="docs/assets/demo.png" alt="Кабинет партнёра и панель администратора" width="820">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="docs/assets/demo-dark.png">
+    <img src="docs/assets/demo-light.png" alt="Администратор вносит заказ, партнёр получает уведомление и видит начисления в кабинете, администратор видит сводку по всем партнёрам">
+  </picture>
 </p>
 
 ## Применение
@@ -35,6 +38,15 @@
 По расписанию:
 - 1-го и 15-го числа в 10:00 - сводка администраторам и отчёты о закрытии периода партнёрам;
 - ежедневно в 03:00 - резервная копия базы (`VACUUM INTO`) администраторам в чат.
+
+<details>
+<summary>Другие экраны: меню, подключение партнёра, выплата, история выплат</summary>
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/assets/screens-dark.png">
+  <img src="docs/assets/screens-light.png" alt="Меню администратора, подключение партнёра с одноразовым паролем, подтверждение выплаты, история выплат партнёра">
+</picture>
+</details>
 
 ## Архитектура
 
