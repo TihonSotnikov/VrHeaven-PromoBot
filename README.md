@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.12-a8c8f0?style=flat&logo=python&logoColor=white" alt="Python 3.12">
-  <img src="https://img.shields.io/badge/aiogram-3.29-b8e0d2?style=flat&logo=telegram&logoColor=white" alt="aiogram 3.29">
-  <img src="https://img.shields.io/badge/SQLite-aiosqlite-b8e0d2?style=flat&logo=sqlite&logoColor=white" alt="SQLite">
-  <img src="https://img.shields.io/badge/APScheduler-3.11-b8e0d2?style=flat" alt="APScheduler 3.11">
-  <img src="https://img.shields.io/badge/license-proprietary-d4c8f0?style=flat" alt="License: proprietary">
+  <img src="https://img.shields.io/badge/Python-3.12-3776AB?style=flat&logo=python&logoColor=white" alt="Python 3.12">
+  <img src="https://img.shields.io/badge/aiogram-3.29-26A5E4?style=flat&logo=telegram&logoColor=white" alt="aiogram 3.29">
+  <img src="https://img.shields.io/badge/SQLite-aiosqlite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite">
+  <img src="https://img.shields.io/badge/APScheduler-3.11-3776AB?style=flat" alt="APScheduler 3.11">
+  <img src="https://img.shields.io/badge/license-proprietary-red?style=flat" alt="License: proprietary">
 </p>
 
 <p align="center">
